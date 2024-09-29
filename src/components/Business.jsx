@@ -38,7 +38,7 @@ const Business = () => (
         no prazo.
       </p>
 
-      <a href="http://127.0.0.1:5500/index.html">
+      <a href="https://chat-bot-alpha-coral.vercel.app/">
         <Button styles={`mt-10`} />
       </a>
     </div>
