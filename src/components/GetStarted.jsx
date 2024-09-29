@@ -10,7 +10,7 @@ const GetStarted = () => (
     >
       <div className={`${styles.flexStart} flex-row`}>
         <p className="font-poppins font-medium text-[18px] leading-[23.4px]">
-          <a href="http://127.0.0.1:5500/index.html">
+          <a href="https://chat-bot-alpha-coral.vercel.app/">
             <span className="text-gradient">Get</span>
           </a>
         </p>
@@ -22,7 +22,9 @@ const GetStarted = () => (
       </div>
 
       <p className="font-poppins font-medium text-[18px] leading-[23.4px]">
-        <span className="text-gradient">Started</span>
+        <a href="https://chat-bot-alpha-coral.vercel.app/">
+          <span className="text-gradient">Started</span>
+        </a>
       </p>
     </div>
   </div>
